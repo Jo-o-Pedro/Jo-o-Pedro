@@ -1,4 +1,10 @@
-## Hi there 👋
+# Olá, eu sou o João Pedro 👋
+
+Sou estudante do curso Técnico em Desenvolvimento de Sistemas.
+Atualmente estou aprendendo HTML, CSS, JavaScript, React e React Native.
+Tenho grande interesse em desenvolvimento web e mobile, e busco aprimorar minhas habilidades para criar aplicações modernas, funcionais e bem estruturadas.
+Sempre em busca de novos desafios e aprendizados no mundo da programação.
+
 
 <!--
 **Jo-o-Pedro/Jo-o-Pedro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
